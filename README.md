@@ -19,9 +19,6 @@ The objective of this project is to analyze employee data and provide meaningful
 - How does attrition vary by gender?
 - What is the attrition trend based on years at the company?
 
-## Dashboard Interaction
-View Interactive Power BI Dashboard
-
 ## Process
 - Collected and verified the HR dataset for missing values and inconsistencies.
 - Cleaned and transformed the data using Power Query.
@@ -31,8 +28,7 @@ View Interactive Power BI Dashboard
 - Built a user-friendly dashboard to analyze employee attrition and workforce trends.
 
 ## Dashboard
-
-![HR Dashboard](HR Dashboard.png)
+![HR Dashboard](HR-Dashboard.png)
 
 ## Project Insights
 - Total Employees: **1,470**
