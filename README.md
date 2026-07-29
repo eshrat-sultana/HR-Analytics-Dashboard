@@ -28,7 +28,7 @@ The objective of this project is to analyze employee data and provide meaningful
 - Built a user-friendly dashboard to analyze employee attrition and workforce trends.
 
 ## Dashboard
-![HR Dashboard](HR-Dashboard.png)
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 
 ## Project Insights
 - Total Employees: **1,470**
